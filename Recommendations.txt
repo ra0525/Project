@@ -1,0 +1,13 @@
+Recommendations
+
+Bengaluru, India: python (40), machine learning (32), communication (29), sql (27), aws (19)
+Mumbai, India: communication (19), python (16), sql (15), statistics (10), aws (6)
+
+data analyst: communication (19), python (16), sql (15), statistics (10), aws (6)
+data scientist: python (27), machine learning (19), sql (16), communication (14), statistics (14)
+machine learning engineer: machine learning (10), python (10), communication (7), sql (7), java (6)
+software engineer: agile (11), java (11), communication (8), aws (6), git (5)
+
+Skills in broad multi-city demand: agile, aws, azure, communication, git
+For job-seekers: prioritize skills that are both high-frequency and role-specific for your target role (see Role matrix).
+For employers: if you want to attract talent in city X, highlight training/benefits for top city skills listed above.
